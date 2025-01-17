@@ -14,7 +14,7 @@ featuredImage:
   altText: Heart
 media:
   type: ImageBlock
-  url: /images/image_2025-01-17_132342434.png
+  url: /images/image_2025-01-17_132945602.png
   altText: Heart
 ---
 
