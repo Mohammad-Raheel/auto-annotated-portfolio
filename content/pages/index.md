@@ -10,7 +10,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: <padding>10px</padding>
+  - elementId: ''
     colors: colors-f
     backgroundSize: full
     title: ''
