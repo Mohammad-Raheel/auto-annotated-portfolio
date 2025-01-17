@@ -45,7 +45,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/image_2025-01-17_133618305.png
-      altText: altText of the image
+      altText: Conxaine
       caption: Caption of the image
       elementId: ''
   - colors: colors-f
