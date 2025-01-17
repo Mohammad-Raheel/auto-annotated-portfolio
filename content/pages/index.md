@@ -47,7 +47,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Me :'
+    subtitle: 'Me:'
   - elementId: ''
     colors: colors-f
     backgroundSize: full
