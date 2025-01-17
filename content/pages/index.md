@@ -44,7 +44,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/image_2025-01-17_133618305.png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
