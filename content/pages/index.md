@@ -46,7 +46,7 @@ sections:
       type: ImageBlock
       url: /images/image_2025-01-17_133618305.png
       altText: Conxaine
-      caption: Caption of the image
+      caption: ''
       elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
