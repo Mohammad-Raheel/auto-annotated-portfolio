@@ -10,7 +10,7 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/image_2025-01-17_132427106.png
+  url: /images/image_2025-01-17_132927714.png
   altText: Heart
 media:
   type: ImageBlock
