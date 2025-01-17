@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/image_2025-01-17_132427106.png
-  altText: Project thumbnail image
+  altText: Heart
 media:
   type: ImageBlock
   url: /images/image_2025-01-17_132342434.png
